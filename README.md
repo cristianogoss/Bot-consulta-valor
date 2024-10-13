@@ -6,7 +6,7 @@ Este projeto é um script em Python que automatiza a consulta de preços de mate
 
 1. **Consulta Automatizada**:
    - Acessa o site
-   - Verifica o preço atual dos materiais de construçãp (cimento, cal e areia)
+   - Verifica o preço atual dos materiais de construção (cimento, cal e areia)
    - Guarda o valor do preço (somente o valor numérico).
 
 2. **Manipulação de Planilhas**:
