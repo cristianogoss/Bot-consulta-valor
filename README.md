@@ -32,4 +32,4 @@ pip install -r requirements.txt
 python app.py
 
 ### Vídeo da automação em funcionamento
-https://www.youtube.com/watch?v=UrvWulII8wI
+https://youtu.be/8pcrWXGOuRw
