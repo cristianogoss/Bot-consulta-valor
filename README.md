@@ -30,3 +30,6 @@ pip install -r requirements.txt
 
 ### Execute o script
 python app.py
+
+### Vídeo da automação em funcionamento
+https://www.youtube.com/watch?v=UrvWulII8wI
